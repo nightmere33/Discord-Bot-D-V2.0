@@ -16,24 +16,7 @@ in C#, with many of the different features it can offer. Please watch this tutor
     <img src="https://imgur.com/OmdLEsh.png" style="border:5px solid black" />
 </p>
 
-# :speaking_head: Beginner's Advice from the Author
 
-- The whole reason for this repository is just to give beginners a working foundation that they can start working on.
-- This repository will only contain the basic features for you to get started coding the Bot.
-- This is because it is the user's responsibility to learn everything they need to know about DSharpPlus.
 
-***"As programmers, do not expect the answers to just be handed to you on a plate. You are expected to research and study for yourself
-things that you may not understand/don't know about the Bot" - Sam J***
 
-# :hammer_and_wrench: Setup
 
-- To use this repository correctly, please refer to the below article to get it setup and working
-
-[Repository Setup](https://github.com/samjesus8/CSharp-Discord-Bot-Template/blob/master/docs/repository_setup.md)
-
-# :warning: Help & Support
-
-If you need extra help with this Bot then here are some recommended support links:
-
-- **Join my Discord Server** | [samjesus8 Official Server](https://discord.com/invite/GrcaGNSfCR)
-- **Join the Official DSharpPlus Server** | [DSharpPlus Official Server](https://discord.com/invite/dsharpplus)
